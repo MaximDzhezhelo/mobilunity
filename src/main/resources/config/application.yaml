@@ -1,0 +1,5 @@
+spring:
+#  profiles.active: localhost
+  main.banner-mode: 'off'
+
+server.port: 8080

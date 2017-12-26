@@ -1,0 +1,23 @@
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+gradlew.bat
+gradlew
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/gradle/
+Будет удалено .gitignore
+Будет удалено build.gradle
+Будет удалено src/

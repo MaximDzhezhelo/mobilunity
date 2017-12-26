@@ -1,0 +1,6 @@
+{
+  "firstName": "Some first name",
+  "lastName": "The last name",
+  "userName": "The user name",
+  "password": "The password in plain text"
+}
